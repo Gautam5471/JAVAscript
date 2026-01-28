@@ -47,5 +47,5 @@ let student = {
 }
 
 for(let key in student){
-    console.log("key =",key,"value",student[key])
+    console.log("key =",key,",value:",student[key])
 }

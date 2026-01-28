@@ -24,22 +24,22 @@
 // console.log(typeof speacialString)
 
 
-// console.log("gautam \n kumar")
-// console.log("gautam \t kumar")
+console.log("gautam \n kumar")
+console.log("gautam \t kumar")
 
-// let str = "Apna college        "
-// let newStr = str.toUpperCase();
-// let newStr1 = str.toLowerCase();
-// console.log(str)
-// console.log(newStr)
-// console.log(newStr1)
-// console.log(str.trim())
+let str = "Apna college        "
+let newStr = str.toUpperCase();
+let newStr1 = str.toLowerCase();
+console.log(str)
+console.log(newStr)
+console.log(newStr1)
+console.log(str.trim())
 
-// console.log(str.slice(1,4))
-
-
+console.log(str.slice(1,4))
 
 
-let str ="hello"
-console.log(str.replace("h","y"))
+
+
+// let str ="hello"
+// console.log(str.replace("h","y"))
 
